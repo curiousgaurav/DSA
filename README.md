@@ -1,2 +1,2 @@
 # DSA
-solve dsa problems
+solve dsa leetcode problems 
