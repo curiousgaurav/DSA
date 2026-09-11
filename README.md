@@ -7,6 +7,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 ## Database
 |  |
 | ------- |
@@ -46,4 +48,8 @@ solve dsa leetcode problems
 | [1683-invalid-tweets](https://github.com/curiousgaurav/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/curiousgaurav/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/curiousgaurav/DSA/tree/master/1934-confirmation-rate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
