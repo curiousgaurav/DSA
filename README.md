@@ -7,6 +7,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 ## Database
 |  |
@@ -51,5 +53,6 @@ solve dsa leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
