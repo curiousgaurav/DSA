@@ -13,6 +13,7 @@ solve dsa leetcode problems
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/curiousgaurav/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/curiousgaurav/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
