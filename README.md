@@ -94,16 +94,31 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
