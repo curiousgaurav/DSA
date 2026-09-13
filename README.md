@@ -11,6 +11,7 @@ solve dsa leetcode problems
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -89,4 +90,20 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
