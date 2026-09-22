@@ -68,6 +68,7 @@ solve dsa leetcode problems
 | ------- |
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/curiousgaurav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
@@ -148,4 +149,12 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
