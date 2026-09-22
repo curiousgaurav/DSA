@@ -76,6 +76,7 @@ solve dsa leetcode problems
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/curiousgaurav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -121,6 +122,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -153,6 +155,7 @@ solve dsa leetcode problems
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -162,8 +165,13 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
