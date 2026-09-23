@@ -81,6 +81,7 @@ solve dsa leetcode problems
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -96,6 +97,7 @@ solve dsa leetcode problems
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
