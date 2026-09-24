@@ -85,6 +85,7 @@ solve dsa leetcode problems
 | [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1092-shortest-common-supersequence](https://github.com/curiousgaurav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/curiousgaurav/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
@@ -102,6 +103,7 @@ solve dsa leetcode problems
 | [0072-edit-distance](https://github.com/curiousgaurav/DSA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1092-shortest-common-supersequence](https://github.com/curiousgaurav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/curiousgaurav/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
@@ -185,4 +187,8 @@ solve dsa leetcode problems
 | ------- |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/curiousgaurav/DSA/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
