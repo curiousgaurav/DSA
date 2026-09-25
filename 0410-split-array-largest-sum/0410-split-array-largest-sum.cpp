@@ -1,51 +1,51 @@
 class Solution {
 public:
 
-    bool check(vector<int>& nums, int k, int mid) {
+    bool check(vector<int>& nums, int k, long long mid) {
+        int parts = 1;
+        long long curr = 0;
 
-        int sum = 0;
-        int cnt = 1;
+        for (int x : nums) {
 
-        for(int i = 0; i < nums.size(); i++) {
+            // Single element itself is greater than mid
+            if (x > mid)
+                return false;
 
-            if(sum + nums[i] <= mid) {
-                sum += nums[i];
+            if (curr + x <= mid) {
+                curr += x;
             }
             else {
-                cnt++;
-                sum = nums[i];
+                // Start a new subarray
+                parts++;
+                curr = x;
             }
         }
 
-        return cnt <= k;
+        return parts <= k;
     }
 
     int splitArray(vector<int>& nums, int k) {
 
-        int n = nums.size();
+        long long l = *max_element(nums.begin(), nums.end());
+        long long h = 0;
 
-        int m = *max_element(nums.begin(), nums.end());
+        for (int x : nums)
+            h += x;
 
-        int sum = 0;
+        long long ans = h;
 
-        for(int i = 0; i < n; i++) {
-            sum += nums[i];
-        }
+        while (l <= h) {
 
-        int lo = m;
-        int hi = sum;
-        int ans = sum;
+            long long mid = l + (h - l) / 2;
 
-        while(lo <= hi) {
-
-            int mid = lo + (hi - lo) / 2;
-
-            if(check(nums, k, mid)) {
+            if (check(nums, k, mid)) {
+                // mid is possible
                 ans = mid;
-                hi = mid - 1;
+                h = mid - 1;
             }
             else {
-                lo = mid + 1;
+                // mid is too small
+                l = mid + 1;
             }
         }
 
