@@ -146,6 +146,7 @@ solve dsa leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
@@ -234,6 +235,7 @@ solve dsa leetcode problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -241,6 +243,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -253,6 +256,7 @@ solve dsa leetcode problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -263,10 +267,12 @@ solve dsa leetcode problems
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Hash Table
 |  |
