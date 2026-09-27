@@ -136,12 +136,14 @@ solve dsa leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/curiousgaurav/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/curiousgaurav/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
@@ -212,6 +214,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/curiousgaurav/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -221,6 +224,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/curiousgaurav/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Longest Increasing Subsequence
 |  |
