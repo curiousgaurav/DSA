@@ -236,10 +236,12 @@ solve dsa leetcode problems
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ solve dsa leetcode problems
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
