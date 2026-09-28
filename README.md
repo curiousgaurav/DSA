@@ -20,6 +20,7 @@ solve dsa leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
