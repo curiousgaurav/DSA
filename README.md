@@ -14,6 +14,7 @@ solve dsa leetcode problems
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/curiousgaurav/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
@@ -31,6 +32,7 @@ solve dsa leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curiousgaurav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -208,6 +210,7 @@ solve dsa leetcode problems
 | ------- |
 | [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
