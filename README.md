@@ -15,6 +15,7 @@ solve dsa leetcode problems
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/curiousgaurav/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
@@ -144,6 +145,7 @@ solve dsa leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 ## DP on Trees
 |  |
@@ -303,5 +306,14 @@ solve dsa leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
