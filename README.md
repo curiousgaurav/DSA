@@ -6,6 +6,7 @@ solve dsa leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/curiousgaurav/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -301,6 +302,7 @@ solve dsa leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/curiousgaurav/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
