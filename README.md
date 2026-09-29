@@ -9,6 +9,7 @@ solve dsa leetcode problems
 | [0001-two-sum](https://github.com/curiousgaurav/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
@@ -40,6 +41,7 @@ solve dsa leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curiousgaurav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
@@ -317,6 +319,7 @@ solve dsa leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 ## Counting
