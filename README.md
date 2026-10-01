@@ -15,6 +15,7 @@ solve dsa leetcode problems
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/curiousgaurav/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/curiousgaurav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
