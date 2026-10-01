@@ -30,6 +30,7 @@ solve dsa leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@ solve dsa leetcode problems
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
@@ -108,6 +110,7 @@ solve dsa leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
@@ -324,6 +327,7 @@ solve dsa leetcode problems
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
