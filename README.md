@@ -15,6 +15,7 @@ solve dsa leetcode problems
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/curiousgaurav/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/curiousgaurav/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/curiousgaurav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
@@ -326,6 +327,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/curiousgaurav/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -342,4 +344,8 @@ solve dsa leetcode problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/curiousgaurav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/curiousgaurav/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
