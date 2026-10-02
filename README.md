@@ -31,6 +31,7 @@ solve dsa leetcode problems
 | [0198-house-robber](https://github.com/curiousgaurav/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/curiousgaurav/DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
@@ -229,6 +230,7 @@ solve dsa leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/curiousgaurav/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 ## Knapsack Problem
