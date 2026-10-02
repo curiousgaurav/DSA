@@ -40,6 +40,7 @@ solve dsa leetcode problems
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/curiousgaurav/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -202,6 +203,7 @@ solve dsa leetcode problems
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -214,6 +216,7 @@ solve dsa leetcode problems
 | [0063-unique-paths-ii](https://github.com/curiousgaurav/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Graph Theory
 |  |
