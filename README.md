@@ -135,6 +135,7 @@ solve dsa leetcode problems
 | [1092-shortest-common-supersequence](https://github.com/curiousgaurav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/curiousgaurav/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/curiousgaurav/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,6 +233,7 @@ solve dsa leetcode problems
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/curiousgaurav/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -385,8 +387,14 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/curiousgaurav/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/curiousgaurav/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/curiousgaurav/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
