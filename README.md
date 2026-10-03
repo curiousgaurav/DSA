@@ -47,6 +47,7 @@ solve dsa leetcode problems
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/curiousgaurav/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/curiousgaurav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
@@ -164,6 +165,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -414,4 +416,8 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/curiousgaurav/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
