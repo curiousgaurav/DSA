@@ -12,6 +12,7 @@ solve dsa leetcode problems
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/curiousgaurav/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
@@ -247,6 +248,7 @@ solve dsa leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/curiousgaurav/DSA/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/curiousgaurav/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
