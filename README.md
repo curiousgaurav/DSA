@@ -23,6 +23,7 @@ solve dsa leetcode problems
 | [0064-minimum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/curiousgaurav/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/curiousgaurav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/curiousgaurav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/curiousgaurav/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
@@ -117,6 +118,7 @@ solve dsa leetcode problems
 | [0072-edit-distance](https://github.com/curiousgaurav/DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/curiousgaurav/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/curiousgaurav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/curiousgaurav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/curiousgaurav/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/curiousgaurav/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
