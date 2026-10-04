@@ -60,6 +60,7 @@ solve dsa leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/curiousgaurav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
@@ -165,6 +166,7 @@ solve dsa leetcode problems
 | [0516-longest-palindromic-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [1092-shortest-common-supersequence](https://github.com/curiousgaurav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/curiousgaurav/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
@@ -172,6 +174,7 @@ solve dsa leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -392,6 +395,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/curiousgaurav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
