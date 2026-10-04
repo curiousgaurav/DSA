@@ -36,6 +36,7 @@ solve dsa leetcode problems
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/curiousgaurav/DSA/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/curiousgaurav/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
@@ -152,6 +153,7 @@ solve dsa leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/curiousgaurav/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
