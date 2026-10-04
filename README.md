@@ -27,6 +27,7 @@ solve dsa leetcode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/curiousgaurav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/curiousgaurav/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/curiousgaurav/DSA/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/curiousgaurav/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/curiousgaurav/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -173,6 +174,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -282,6 +284,7 @@ solve dsa leetcode problems
 | ------- |
 | [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
