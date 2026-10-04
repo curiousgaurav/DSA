@@ -175,6 +175,7 @@ solve dsa leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/curiousgaurav/DSA/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -438,4 +439,8 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/curiousgaurav/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
