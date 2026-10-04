@@ -157,6 +157,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curiousgaurav/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/curiousgaurav/DSA/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/curiousgaurav/DSA/tree/master/0383-ransom-note) |
@@ -169,11 +170,13 @@ solve dsa leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
