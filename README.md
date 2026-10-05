@@ -15,6 +15,7 @@ solve dsa leetcode problems
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/curiousgaurav/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/curiousgaurav/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/curiousgaurav/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/curiousgaurav/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
@@ -175,6 +176,7 @@ solve dsa leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curiousgaurav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/curiousgaurav/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/curiousgaurav/DSA/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/curiousgaurav/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
@@ -385,6 +387,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/curiousgaurav/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/curiousgaurav/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
@@ -405,6 +408,7 @@ solve dsa leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/curiousgaurav/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/curiousgaurav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/curiousgaurav/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/curiousgaurav/DSA/tree/master/0179-largest-number) |
