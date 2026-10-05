@@ -38,6 +38,7 @@ solve dsa leetcode problems
 | [0213-house-robber-ii](https://github.com/curiousgaurav/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/curiousgaurav/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/curiousgaurav/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
@@ -154,6 +155,7 @@ solve dsa leetcode problems
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -421,6 +423,7 @@ solve dsa leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -462,4 +465,16 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/curiousgaurav/DSA/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
