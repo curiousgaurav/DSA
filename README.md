@@ -44,6 +44,7 @@ solve dsa leetcode problems
 | [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -155,6 +156,7 @@ solve dsa leetcode problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/curiousgaurav/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -372,6 +374,7 @@ solve dsa leetcode problems
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/curiousgaurav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/curiousgaurav/DSA/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
 ## DP on Trees
 |  |
 | ------- |
