@@ -49,6 +49,7 @@ solve dsa leetcode problems
 | [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/curiousgaurav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -214,6 +215,7 @@ solve dsa leetcode problems
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/curiousgaurav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ solve dsa leetcode problems
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -400,6 +403,7 @@ solve dsa leetcode problems
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
@@ -425,6 +429,7 @@ solve dsa leetcode problems
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
@@ -477,4 +482,16 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
