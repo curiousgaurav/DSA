@@ -45,6 +45,7 @@ solve dsa leetcode problems
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/curiousgaurav/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/curiousgaurav/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -183,6 +184,7 @@ solve dsa leetcode problems
 | [0155-min-stack](https://github.com/curiousgaurav/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/curiousgaurav/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
@@ -445,6 +447,7 @@ solve dsa leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
