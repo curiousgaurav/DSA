@@ -11,6 +11,7 @@ solve dsa leetcode problems
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/curiousgaurav/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/curiousgaurav/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/curiousgaurav/DSA/tree/master/0047-permutations-ii) |
@@ -62,6 +63,7 @@ solve dsa leetcode problems
 | [0011-container-with-most-water](https://github.com/curiousgaurav/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/curiousgaurav/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/curiousgaurav/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/curiousgaurav/DSA/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/curiousgaurav/DSA/tree/master/0844-backspace-string-compare) |
@@ -115,6 +117,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/curiousgaurav/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/curiousgaurav/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/curiousgaurav/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/curiousgaurav/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/curiousgaurav/DSA/tree/master/0055-jump-game) |
@@ -180,6 +183,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/curiousgaurav/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/curiousgaurav/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/curiousgaurav/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/curiousgaurav/DSA/tree/master/0394-decode-string) |
@@ -447,6 +451,7 @@ solve dsa leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/curiousgaurav/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/curiousgaurav/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
