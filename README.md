@@ -47,6 +47,7 @@ solve dsa leetcode problems
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/curiousgaurav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -82,6 +83,7 @@ solve dsa leetcode problems
 | [0409-longest-palindrome](https://github.com/curiousgaurav/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/curiousgaurav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Database
@@ -386,6 +388,7 @@ solve dsa leetcode problems
 | [0383-ransom-note](https://github.com/curiousgaurav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/curiousgaurav/DSA/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 ## DP on Trees
 |  |
 | ------- |
@@ -403,6 +406,7 @@ solve dsa leetcode problems
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/curiousgaurav/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/curiousgaurav/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
@@ -410,6 +414,7 @@ solve dsa leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/curiousgaurav/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/curiousgaurav/DSA/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -428,6 +433,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/curiousgaurav/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
