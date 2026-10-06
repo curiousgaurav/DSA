@@ -1,38 +1,27 @@
 class Solution {
 public:
-    int dx[4] = {0, 0, 1, -1};
-    int dy[4] = {1, -1, 0, 0};
+void dfs(int i,int j,vector<vector<int>>& image,int oc,int color,int n,int m){
+    image[i][j]=color;
+    int dx[4] = {0,0,1,-1};
+    int dy[4]= {1,-1,0,0};
+    for(int k=0;k<4;k++){
+        int x = dx[k]+i;
+        int y = dy[k]+j;
+        if(x>=0 && y>=0 && x<n && y<m && image[x][y]==oc){
+            dfs(x,y,image,oc,color,n,m);
 
-    void dfs(int i, int j, vector<vector<int>>& image,
-             int originalColor, int color) {
-
-        image[i][j] = color;
-
-        for (int k = 0; k < 4; k++) {
-
-            int x = i + dx[k];
-            int y = j + dy[k];
-
-            if (x >= 0 && y >= 0 &&
-                x < image.size() && y < image[0].size() &&
-                image[x][y] == originalColor) {
-
-                dfs(x, y, image, originalColor, color);
-            }
         }
     }
-
-    vector<vector<int>> floodFill(vector<vector<int>>& image,
-                                   int sr, int sc, int color) {
-
-        int originalColor = image[sr][sc];
-
-        // Already the required color
-        if (originalColor == color)
+}
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int n = image.size();
+        int m = image[0].size();
+        int oc = image[sr][sc];
+        if(oc==color){
             return image;
-
-        dfs(sr, sc, image, originalColor, color);
-
+        }
+        dfs(sr,sc,image,oc,color,n,m);
         return image;
+        
     }
 };
