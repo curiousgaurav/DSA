@@ -4,11 +4,28 @@ vector<int>vis;
 vector<vector<int>>g;
 
 
-void dfs(int src){
+// void dfs(int src){
+//     vis[src]=1;
+//     for(auto a:g[src]){
+//         if(!vis[a]){
+//             dfs(a);
+//         }
+//     }
+// }
+
+void bfs(int src){
+    queue<int>q;
     vis[src]=1;
-    for(auto a:g[src]){
-        if(!vis[a]){
-            dfs(a);
+    q.push(src);
+    while(!q.empty()){
+        int cur = q.front();
+        q.pop();
+        for(auto v:g[cur]){
+            if(!vis[v]){
+                bfs(v);
+            }else{
+                continue;
+            }
         }
     }
 }
@@ -29,7 +46,7 @@ void dfs(int src){
 
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                dfs(i);
+                bfs(i);
                 cnt++;
             }
         }
