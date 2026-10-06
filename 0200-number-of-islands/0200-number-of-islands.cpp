@@ -1,72 +1,36 @@
 class Solution {
 public:
-
-    int n, m;
-
-    int dx[4] = {-1, 1, 0, 0};
-    int dy[4] = {0, 0, -1, 1};
-
-    bool check(int i, int j) {
-        if(i >= 0 && j >= 0 && i < n && j < m) {
-            return true;
-        }
-        return false;
-    }
-
-    vector<pair<int,int>> neighb(int i, int j) {
-
-        vector<pair<int,int>> store;
-
-        for(int dir = 0; dir < 4; dir++) {
-
-            int ni = i + dx[dir];
-            int nj = j + dy[dir];
-
-            if(check(ni, nj)) {
-                store.push_back({ni, nj});
+vector<vector<int>> vis;
+       void dfs(int i,int j,vector<vector<char>>& grid,int n,int m){
+        
+        vis[i][j]=1;
+        int dx[4]={1,-1,0,0};
+        int dy[4]={0,0,1,-1};
+        for(int k=0;k<4;k++){
+            int x = dx[k]+i;
+            int y=dy[k]+j;
+            if(x>=0 && y>=0 &&x<n && y<m && grid[x][y]=='1'){
+                if(!vis[x][y]){
+                dfs(x,y,grid,n,m);
+                }
             }
         }
-
-        return store;
-    }
-
-    void dfs(int i, int j, vector<vector<int>>& vis,
-             vector<vector<char>>& grid) {
-
-        vis[i][j] = 1;
-
-        for(auto a : neighb(i, j)) {
-
-            int x = a.first;
-            int y = a.second;
-
-            if(!vis[x][y] && grid[x][y] == '1') {
-                dfs(x, y, vis, grid);
-            }
-        }
-    }
-
+       }
+      
     int numIslands(vector<vector<char>>& grid) {
-
-        n = grid.size();
-        m = grid[0].size();
-
+        int n = grid.size();
+        int m = grid[0].size();
+         vis.resize(n, vector<int>(m, 0));
         int cnt = 0;
-
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-
-                if(!vis[i][j] && grid[i][j] == '1') {
-
-                    dfs(i, j, vis, grid);
-
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j] == '1' && !vis[i][j]){
+                    dfs(i,j,grid,n,m);
                     cnt++;
                 }
             }
         }
-
         return cnt;
+        
     }
 };
