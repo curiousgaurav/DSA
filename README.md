@@ -238,6 +238,7 @@ solve dsa leetcode problems
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/curiousgaurav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curiousgaurav/DSA/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/curiousgaurav/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/curiousgaurav/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -253,6 +254,7 @@ solve dsa leetcode problems
 | [0226-invert-binary-tree](https://github.com/curiousgaurav/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/curiousgaurav/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/curiousgaurav/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/curiousgaurav/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/curiousgaurav/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -262,6 +264,7 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/curiousgaurav/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/curiousgaurav/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -279,6 +282,7 @@ solve dsa leetcode problems
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/curiousgaurav/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/curiousgaurav/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/curiousgaurav/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/curiousgaurav/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
