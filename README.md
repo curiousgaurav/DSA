@@ -224,6 +224,7 @@ solve dsa leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/curiousgaurav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/curiousgaurav/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/curiousgaurav/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -338,6 +339,7 @@ solve dsa leetcode problems
 | ------- |
 | [0048-rotate-image](https://github.com/curiousgaurav/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/curiousgaurav/DSA/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/curiousgaurav/DSA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/curiousgaurav/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/curiousgaurav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/curiousgaurav/DSA/tree/master/0189-rotate-array) |
@@ -539,4 +541,8 @@ solve dsa leetcode problems
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/curiousgaurav/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/curiousgaurav/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
