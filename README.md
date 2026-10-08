@@ -53,6 +53,7 @@ solve dsa leetcode problems
 | [0485-max-consecutive-ones](https://github.com/curiousgaurav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/curiousgaurav/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/curiousgaurav/DSA/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/curiousgaurav/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/curiousgaurav/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/curiousgaurav/DSA/tree/master/0739-daily-temperatures) |
@@ -227,6 +228,7 @@ solve dsa leetcode problems
 | [0268-missing-number](https://github.com/curiousgaurav/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curiousgaurav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/curiousgaurav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/curiousgaurav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/curiousgaurav/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/curiousgaurav/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
