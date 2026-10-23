@@ -8,14 +8,14 @@ public:
 
         for (int i = 1; i < intervals.size(); i++) {
             if (intervals[i][0] < end) {
-                // Overlapping
+                
                 count++;
 
-                // Keep the interval that ends earlier
+                
                 end = min(end, intervals[i][1]);
             } 
             else {
-                // Non-overlapping
+                
                 end = intervals[i][1];
             }
         }
